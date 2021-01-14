@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6233457925B0945B0027AF01 /* 5x6CardsGameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6233457825B0945B0027AF01 /* 5x6CardsGameViewController.swift */; };
 		623AEA3925824B3E00A51C86 /* PlayerInfoInputViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 623AEA3825824B3E00A51C86 /* PlayerInfoInputViewController.swift */; };
 		623AEA3C25824CBA00A51C86 /* ChoseCaouseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 623AEA3B25824CBA00A51C86 /* ChoseCaouseViewController.swift */; };
 		623AEA3F25824FD100A51C86 /* player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 623AEA3E25824FD100A51C86 /* player.swift */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6233457825B0945B0027AF01 /* 5x6CardsGameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 5x6CardsGameViewController.swift; sourceTree = "<group>"; };
 		623AEA3825824B3E00A51C86 /* PlayerInfoInputViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerInfoInputViewController.swift; sourceTree = "<group>"; };
 		623AEA3B25824CBA00A51C86 /* ChoseCaouseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChoseCaouseViewController.swift; sourceTree = "<group>"; };
 		623AEA3E25824FD100A51C86 /* player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = player.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				623AEA3E25824FD100A51C86 /* player.swift */,
 				623AEA412582506E00A51C86 /* playingRecord.swift */,
 				6243BEC6257C03F1001A2225 /* 4x5CardsGameViewController.swift */,
+				6233457825B0945B0027AF01 /* 5x6CardsGameViewController.swift */,
 				629E50E125AF3CB40038D258 /* Fumctions.swift */,
 				62CBD543257BDA4200A3C7F6 /* Card.swift */,
 				62CBD534257BD5CC00A3C7F6 /* Assets.xcassets */,
@@ -158,6 +161,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6233457925B0945B0027AF01 /* 5x6CardsGameViewController.swift in Sources */,
 				62CBD530257BD5CB00A3C7F6 /* ViewController.swift in Sources */,
 				6243BEC7257C03F1001A2225 /* 4x5CardsGameViewController.swift in Sources */,
 				629E50E225AF3CB40038D258 /* Fumctions.swift in Sources */,

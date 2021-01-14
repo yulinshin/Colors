@@ -16,6 +16,9 @@ class PlayerInfoInputViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+     
+        
+        ///調整Segment的顏色
         playerGenderSegment.backgroundColor = UIColor.init(displayP3Red: 1, green: 1, blue: 1, alpha: 0 )
         playerGenderSegment.selectedSegmentTintColor = UIColor.white
         let titleTextAttributes = [NSAttributedString.Key.foregroundColor:UIColor.white]
