@@ -7,15 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		623AEA3925824B3E00A51C86 /* PlayerInfoInputViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 623AEA3825824B3E00A51C86 /* PlayerInfoInputViewController.swift */; };
+		623AEA3C25824CBA00A51C86 /* ChoseCaouseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 623AEA3B25824CBA00A51C86 /* ChoseCaouseViewController.swift */; };
+		623AEA3F25824FD100A51C86 /* player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 623AEA3E25824FD100A51C86 /* player.swift */; };
+		623AEA422582506E00A51C86 /* playingRecord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 623AEA412582506E00A51C86 /* playingRecord.swift */; };
+		6243BEC7257C03F1001A2225 /* 4x5CardsGameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6243BEC6257C03F1001A2225 /* 4x5CardsGameViewController.swift */; };
+		629E50E225AF3CB40038D258 /* Fumctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 629E50E125AF3CB40038D258 /* Fumctions.swift */; };
 		62CBD52C257BD5CB00A3C7F6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62CBD52B257BD5CB00A3C7F6 /* AppDelegate.swift */; };
 		62CBD52E257BD5CB00A3C7F6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62CBD52D257BD5CB00A3C7F6 /* SceneDelegate.swift */; };
 		62CBD530257BD5CB00A3C7F6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62CBD52F257BD5CB00A3C7F6 /* ViewController.swift */; };
 		62CBD533257BD5CB00A3C7F6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 62CBD531257BD5CB00A3C7F6 /* Main.storyboard */; };
 		62CBD535257BD5CC00A3C7F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 62CBD534257BD5CC00A3C7F6 /* Assets.xcassets */; };
 		62CBD538257BD5CC00A3C7F6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 62CBD536257BD5CC00A3C7F6 /* LaunchScreen.storyboard */; };
+		62CBD544257BDA4200A3C7F6 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62CBD543257BDA4200A3C7F6 /* Card.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		623AEA3825824B3E00A51C86 /* PlayerInfoInputViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerInfoInputViewController.swift; sourceTree = "<group>"; };
+		623AEA3B25824CBA00A51C86 /* ChoseCaouseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChoseCaouseViewController.swift; sourceTree = "<group>"; };
+		623AEA3E25824FD100A51C86 /* player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = player.swift; sourceTree = "<group>"; };
+		623AEA412582506E00A51C86 /* playingRecord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = playingRecord.swift; sourceTree = "<group>"; };
+		6243BEC6257C03F1001A2225 /* 4x5CardsGameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 4x5CardsGameViewController.swift; sourceTree = "<group>"; };
+		629E50E125AF3CB40038D258 /* Fumctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fumctions.swift; sourceTree = "<group>"; };
 		62CBD528257BD5CB00A3C7F6 /* Colors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Colors.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		62CBD52B257BD5CB00A3C7F6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		62CBD52D257BD5CB00A3C7F6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +37,7 @@
 		62CBD534257BD5CC00A3C7F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		62CBD537257BD5CC00A3C7F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		62CBD539257BD5CC00A3C7F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		62CBD543257BDA4200A3C7F6 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +74,13 @@
 				62CBD52D257BD5CB00A3C7F6 /* SceneDelegate.swift */,
 				62CBD52F257BD5CB00A3C7F6 /* ViewController.swift */,
 				62CBD531257BD5CB00A3C7F6 /* Main.storyboard */,
+				623AEA3B25824CBA00A51C86 /* ChoseCaouseViewController.swift */,
+				623AEA3825824B3E00A51C86 /* PlayerInfoInputViewController.swift */,
+				623AEA3E25824FD100A51C86 /* player.swift */,
+				623AEA412582506E00A51C86 /* playingRecord.swift */,
+				6243BEC6257C03F1001A2225 /* 4x5CardsGameViewController.swift */,
+				629E50E125AF3CB40038D258 /* Fumctions.swift */,
+				62CBD543257BDA4200A3C7F6 /* Card.swift */,
 				62CBD534257BD5CC00A3C7F6 /* Assets.xcassets */,
 				62CBD536257BD5CC00A3C7F6 /* LaunchScreen.storyboard */,
 				62CBD539257BD5CC00A3C7F6 /* Info.plist */,
@@ -138,7 +159,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				62CBD530257BD5CB00A3C7F6 /* ViewController.swift in Sources */,
+				6243BEC7257C03F1001A2225 /* 4x5CardsGameViewController.swift in Sources */,
+				629E50E225AF3CB40038D258 /* Fumctions.swift in Sources */,
+				623AEA422582506E00A51C86 /* playingRecord.swift in Sources */,
 				62CBD52C257BD5CB00A3C7F6 /* AppDelegate.swift in Sources */,
+				623AEA3C25824CBA00A51C86 /* ChoseCaouseViewController.swift in Sources */,
+				623AEA3F25824FD100A51C86 /* player.swift in Sources */,
+				62CBD544257BDA4200A3C7F6 /* Card.swift in Sources */,
+				623AEA3925824B3E00A51C86 /* PlayerInfoInputViewController.swift in Sources */,
 				62CBD52E257BD5CB00A3C7F6 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
